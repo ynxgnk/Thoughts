@@ -1,0 +1,52 @@
+{
+  "identifier" : "108AE93E",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "4B8D0771",
+      "localizations" : [
+
+      ],
+      "name" : "Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "127AE037",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock all Thoughts posts!",
+              "displayName" : "Premium Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "io.iosacademy.Thoughts.premium",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Premuim Monthly",
+          "subscriptionGroupID" : "4B8D0771",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
